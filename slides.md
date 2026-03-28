@@ -47,6 +47,7 @@ Check with the audience. Remind them:
 
 ---
 layout: default
+hideInToc: true
 ---
 
 ## We are no lawyers
@@ -107,7 +108,7 @@ hide: false
 ---
 
 ---
-src: ./chapters/3-exits.md
+src: ./chapters/3-exit.md
 hide: false
 ---
 
