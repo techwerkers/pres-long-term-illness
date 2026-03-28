@@ -42,7 +42,7 @@ hideInToc: true
 <!--
 Check with the audience. Remind them:
 - This is a content heavy presentation
-- Looking after their own health is important
+- Looking after your own health is important
 -->
 
 ---
