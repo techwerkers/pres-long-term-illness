@@ -18,13 +18,19 @@ Title card
 
 ---
 hideInToc: true
+layout: two-cols-header
+
 ---
 
 ## Table of contents
 
+::left::
+
 A presentation about long term illness in The Netherlands.
 
 Information about your rights and obligations.
+
+::right::
 
 <Toc minDepth="2" maxDepth="2" />
 

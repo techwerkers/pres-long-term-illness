@@ -39,11 +39,12 @@ Note: Get ready for many asterisks, there are exceptions everywhere.
 
 Yes*.
 
-Although not a medically recognised diagnosis, other medical conditions are covered by long term illness.
+Although not a medically recognised diagnosis, other medical conditions are covered by long term illness. Burnout is often diagnosed as Generalized Anxiety Disorder, Insomnia, etc
 
-Burnout is often diagnosed as Generalized Anxiety Disorder, Insominia, and any other generally related conditions that can happen as a side affect of burnout.
+Diagnosis is only important for:
 
-The diagnosis is generally unimportant in terms of long term illness, however it may be important for your own personal reasons, and/or when seaking treatment via insurance.
+- The person themselves (e.g. support networks)
+- Insurance (e.g. for treatments)
 
 ---
 
@@ -51,13 +52,13 @@ The diagnosis is generally unimportant in terms of long term illness, however it
 
 Sigh...
 
-This "joke" happens all to often. Jokes are how some people cope, however we need to stop this.
+This "joke" happens all to often. Jokes are how some people cope, however this joke causes real damage.
 
-Long term illness is a safety net. Making jokes about illness and how people are able to be supported by the safety net erodes trust in the safety net.
+Long term illness is the safety net that catches people in their darkest moments, including people on end of life care.
 
-A contributor to Techwerkers has personally seen a reduction in the safety net due to a "feeling from management" that long term illness was being abused.
+A contributor to Techwerkers has personally seen an attempt at reducing the coverage of the safety net due to a feeling from management that long term illness was being abused.
 
-The reality, that safety net catches people in their darkest moments. People that are on end of life care. The joke about a free vacation takes away from other peoples suffering.
+Bieng ill is not a joke. The safety net is not a joke.
 
 ---
 
@@ -71,7 +72,7 @@ The legal minimums in Netherlands:
 
 - Up to a two day stand down period - Many companies waive this and pay from day 1
 - 70% of salary - Many companies and collective agreements pay at 100% for the first year, and 70% for the second.
-- Have a CAO - Check there for the details
+- Have a CAO? - Check there for the details
 
 <!-- harsh reality aside, What's the practicality of everything? -->
 
@@ -79,17 +80,27 @@ The legal minimums in Netherlands:
 
 ### Reporting in as sick/ill
 
-Do I have to share any medical information? No. More on that later.
+<v-click>
 
-Can I be singled out in terms of benefits? No. Company policies need to be enforced fairly and equitably. e.g. Whatever lives in the employee handbook is the truth. If there is no employee handbook, then precedece takes place.
+_Q: Do I have to share any medical information?_
+
+No. More on that in a moment.
+
+</v-click>
+
+<v-click>
+
+_Q: Can I be singled out in terms of pay and stand down period?_
+
+No. Company policies need to be enforced fairly and equitably. e.g. Whatever lives in the employee handbook is the truth. If there is no employee handbook, then precedece takes place.
+
+</v-click>
 
 --- 
 
 ### Medical Information & Privacy
 
 Your medical information is private between you and your health care providers.
-
-No medical information is required to be shared with your employer - although many people do. (Needs more reason)
 
 <!-- speaking of medical information -->
 
@@ -99,9 +110,18 @@ No medical information is required to be shared with your employer - although ma
 
 Medical information includes:
 
-- Specific diagnoses
-- Specific symptoms
-- Medication, treatment plans
+<v-clicks>
+
+- Diagnoses
+  - e.g. Insomnia
+- Symptoms
+  - e.g. Sleeplessness
+- Medication
+  - e.g. Sedatives
+- Treatments
+  - e.g. Cognitive Behavioural Therapy
+
+</v-clicks>
 
 <!-- e.g. it is the stuff you're talk specific to your doctor about? -->
 
@@ -111,10 +131,20 @@ Medical information includes:
 
 Medical information is not:
 
+<v-clicks>
+
 - Appointment dates and times (excluding provider information)
 - What you currently capabilities are in terms of working
 - Whether the cause is work environment or not
 - Required adjustments to your work tasks/environment
+
+</v-clicks>
+
+<v-click>
+
+e.g. The above is generally obligated to share with your employer.
+
+</v-click>
 
 <!--
 Business has to have continuity of operations. Companies need to organise a replacement, etc.
@@ -126,7 +156,9 @@ For business continuity planning, knowing the next evaluation point is important
 
 ### Medical information & Privacy
 
-The point here: What is relevant to you and your employer is:
+e.g. The business needs to continue to operate.
+
+So the fellowing is genreally relevant to share:
 
 - What work you can do (if any)
 - How you can best do that
@@ -139,13 +171,16 @@ The point here: What is relevant to you and your employer is:
 
 So then, who should I share my medical information with?
 
-In short, medical professionals. They have a client privacy information obligation. This includes:
+Health care providers have a client privacy information obligation. This includes:
 
 - GP (huisarts)
 - Company doctor (bedrijfsarts)
+  - Yes they are employed by your company, however they have the same client privacy obligation
 - Specialists (e.g. physio's, occupational therapists, surgeons, etc)
 
 No medical professional should ever share any details without their pateiets explicit consent.
+
+<!-- There is no obligation to share medical information with health care providers too. However, as you can imagine, that can limit treatment options -->
 
 ---
 
@@ -155,16 +190,44 @@ In practice, many people share information with their employer and colleagues, o
 
 Why? Because our general social contract has others caring about each other.
 
-Should people share their information? Well that is up to them. You sould respect peoples privacy and decisions. You should also stand your ground if you feel uncomfortable sharing information where you are not obligated to.
+<hr />
+
+<v-click>
+
+_Q: Should people share their information?_
+
+That is up to them, not up to you.
+
+</v-click>
+
+<v-click>
+
+_Q: Should respect peoples privacy and decisions>_
+
+Absolutely.
+
+</v-click>
+
+<v-click>
+
+_Q: Should you share information because of a perceived social obligation?_
+
+That is up to you. "I'm sorry, I don't want to share that information".
+
+</v-click>
 
 --- 
 
 ### The basics Summarised
 
+<v-clicks>
+
 - Long term illness is = Not able to do your job for 4 weeks
-- Safety net, not a joke.
+- It's a safety net
+- It's not a joke
 - Minimum 70% pay, 2 day stand down.
-- Reality, most companies 100% first year, 0 day stand down.
+- Reality: most companies 100% first year, 0 day stand down (check your employee handbook)
 - Medical information is private
 - Practical information is not medical information
 
+</v-clicks>
