@@ -4,14 +4,8 @@ background: https://cover.sli.dev
 class: text-center
 ---
 
-## Introduction
+## Timelines
 
 What is long term illness?
 
----
-
-## Medical professionals
-
-- GP (huisarts)
-- Company doctor (bedrijfsarts)
 
