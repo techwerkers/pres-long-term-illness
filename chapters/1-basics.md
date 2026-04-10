@@ -17,7 +17,7 @@ What is long term illness?
 
 Think about:
 
-- Burn out
+- Burnout
 - Cancer
 - You broke your leg, and you need to walk for your job
 
@@ -27,7 +27,7 @@ Think about:
 
 Yes you are.
 
-In The Netherlands, your employer pays your salary for the first 2 years*. This is a so called "Safety net" income protection.
+In the Netherlands, your employer pays your salary for the first 2 years*. This is a so called "Safety net" income protection.
 
 Many countries still use a bucketed leave system (similar to vacation pay) which operates very differently from the system here.
 
@@ -39,7 +39,7 @@ Note: Get ready for many asterisks, there are exceptions everywhere.
 
 Yes*.
 
-Although not a medically recognised diagnosis, other medical conditions are covered by long term illness. Burnout is often diagnosed as Generalized Anxiety Disorder, Insomnia, etc
+Although not a medically recognised diagnosis, other medical conditions are covered by long term illness. Burnout is often diagnosed as Generalized Anxiety Disorder, Insomnia, etc.
 
 Diagnosis is only important for:
 
@@ -58,13 +58,13 @@ Long term illness is the safety net that catches people in their darkest moments
 
 A contributor to Techwerkers has personally seen an attempt at reducing the coverage of the safety net due to a feeling from management that long term illness was being abused.
 
-Bieng ill is not a joke. The safety net is not a joke.
+Being ill is not a joke. The safety net is not a joke.
 
 ---
 
 ### Reporting in as sick/ill
 
-Reality, you need to report to your company if you are unable to work. That generally means contacting your manager.
+You need to report to your company, if you are unable to work. That generally means contacting your manager.
 
 If you're unsure, check your employee handbook. Not sure where that is? Ask someone in HR.
 
@@ -92,7 +92,7 @@ No. More on that in a moment.
 
 _Q: Can I be singled out in terms of pay and stand down period?_
 
-No. Company policies need to be enforced fairly and equitably. e.g. Whatever lives in the employee handbook is the truth. If there is no employee handbook, then precedece takes place.
+No. Company policies need to be enforced fairly and equitably. e.g. Whatever lives in the employee handbook is the truth. If there is no employee handbook, then precedent takes place.
 
 </v-click>
 
@@ -176,9 +176,9 @@ Health care providers have a client privacy information obligation. This include
 - GP (huisarts)
 - Company doctor (bedrijfsarts)
   - Yes they are employed by your company, however they have the same client privacy obligation
-- Specialists (e.g. physio's, occupational therapists, surgeons, etc)
+- Specialists (e.g. physio's, occupational therapists, surgeons, etc.)
 
-No medical professional should ever share any details without their pateiets explicit consent.
+No medical professional should ever share any details without their patient's explicit consent.
 
 <!-- There is no obligation to share medical information with health care providers too. However, as you can imagine, that can limit treatment options -->
 
@@ -202,7 +202,7 @@ That is up to them, not up to you.
 
 <v-click>
 
-_Q: Should respect peoples privacy and decisions>_
+_Q: Should the employer respect people's privacy and decisions?_
 
 Absolutely.
 
